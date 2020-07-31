@@ -3,6 +3,10 @@
 ## Current Projects
 - [My Website](https://hamish.science/)  
 - [For the Love of Circuits](https://fortheloveofcircuits.co.uk/)  
+- [Tiny Turbine](https://github.com/Hammie217/TinyTurbine)  
+- [Automated Desk Fan](https://github.com/Hammie217/USBTempControlledDeskFan)
+- [Open Source PSU](https://github.com/Hammie217/OpenSourcePSU)
+
 
 ## Github Stats
 [![Hammie217's github stats](https://github-readme-stats.vercel.app/api?username=hammie217&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
