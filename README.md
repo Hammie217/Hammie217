@@ -1,8 +1,8 @@
 # Hammie217 - Hamish Sams
 
 ## Current Projects
-[My Website](https://hamish.science/)  
-[For the Love of Circuits](https://fortheloveofcircuits.co.uk/)  
+- [My Website](https://hamish.science/)  
+- [For the Love of Circuits](https://fortheloveofcircuits.co.uk/)  
 
 ## Github Stats
 [![Hammie217's github stats](https://github-readme-stats.vercel.app/api?username=hammie217&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
